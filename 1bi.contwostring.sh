@@ -1,4 +1,4 @@
-Concatenation of two strings and other string operations
+
 
 #creating strings,conactenating them and printing them
 #!/bin/bash
