@@ -1,5 +1,3 @@
-
-
 #creating strings,conactenating them and printing them
 #!/bin/bash
 str1=welcome
