@@ -15,4 +15,3 @@ case $op in
 ;;
 *) echo "Invalid"
 esac
-
