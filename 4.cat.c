@@ -1,4 +1,3 @@
-
 /*program to implement the cat command which prints the content of the file*/
  //simulate CAT cmd (VIEW only)
  #include<stdio.h>
