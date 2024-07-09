@@ -1,4 +1,5 @@
- /* Program to stimulate the ls command of the Linux operating system it lists all the files present
+
+/* Program to stimulate the ls command of the Linux operating system it lists all the files present
  in the given directory. */
  #include<stdio.h>
  #include<sys/types.h>
