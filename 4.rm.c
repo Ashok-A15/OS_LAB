@@ -1,6 +1,7 @@
 /*Program to stimulate the rm command of the linux operating system.is used for deleting a file
  present in the current directory.*/
- #include<stdio.h>
+
+#include<stdio.h>
  void main()
  {
  char fn[10];
