@@ -1,6 +1,5 @@
 
-#!/bin/bash
-n1=0
+#!/bin/bashn1=0
 n2=1
 echo "enter the number of fibonacci numbers you want to find"
 read n
