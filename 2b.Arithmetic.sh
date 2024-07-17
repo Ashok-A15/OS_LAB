@@ -1,3 +1,4 @@
+
 Arithmetic operation using case
 echo "Enter two numbers"
 read n1
