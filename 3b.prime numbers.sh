@@ -1,4 +1,3 @@
-
 #!/bin/bash
 # Program to generate the prime numbers of a given range
 echo "Enter the lower bound: "
